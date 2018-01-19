@@ -1,0 +1,32 @@
+{
+  "name": "sensor-station",
+  "version": "1.0.0-SNAPSHOT",
+  "description": "sensor-station - based on GrovePi AirQualitySensor",
+  "main": "index.js",
+  "dependencies": {
+    "mqtt": "^2.15.1",
+    "node-grovepi": "^2.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/52North/sensor-station.git"
+  },
+  "keywords": [
+    "sensors",
+    "air quality",
+    "low-cost",
+    "raspberry",
+    "grovepi",
+    "node"
+  ],
+  "author": "52°North",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/52North/sensor-station/issues"
+  },
+  "homepage": "https://github.com/52North/sensor-station#readme"
+}
